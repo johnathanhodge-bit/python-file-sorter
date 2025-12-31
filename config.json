@@ -1,0 +1,9 @@
+{
+    "categories": {
+        "Images": [".jpg", ".jpeg", ".png", ".gif", ".heic"],
+        "Documents": [".pdf", ".docx", ".txt", ".xlsx", ".pptx", ".vtt", ".transcript.vtt"],
+        "Setup_Files": [".exe", ".dmg", ".pkg"],
+        "Camping_Gear": [".gpx", ".kml"]
+    },
+    "script_name": "organizer.py"
+}

@@ -1,0 +1,6 @@
+# Python virtual environment
+.venv/
+
+# Log files
+organizer.log
+

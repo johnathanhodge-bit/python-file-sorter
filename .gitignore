@@ -4,3 +4,6 @@
 # Log files
 organizer.log
 
+# macOS system files
+.DS_Store
+

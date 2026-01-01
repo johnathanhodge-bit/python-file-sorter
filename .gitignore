@@ -7,7 +7,5 @@ organizer.log
 # macOS system files
 .DS_Store
 
-# Test/organized folders (don't commit these)
-Documents/
-Images/
+
 
